@@ -11,7 +11,7 @@ credits: true
 {% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
 
   ##Arboretum Tour Website
-  {:.title-center}
+
 
 I am the curator of the Friends Historical Library of Swarthmore College, which we call FHL. I am a librarian by profession and my job is to develop FHL research collections, manage FHL archivists, and make sure that we continue keeping a centuries-long tradition of collecting the records of Friends and their meetings.
 
