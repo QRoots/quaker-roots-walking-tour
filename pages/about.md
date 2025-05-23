@@ -10,39 +10,37 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
 
-## About CollectionBuilder-Sheets
+  <html lang="en">
 
-This site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
+  <head>
+    <h1>
+      Arboretum Tour Website
+    </h1>
+  </head>
 
-Using CB-Sheets, it is possible to use a live Google Sheets spreadsheet for your collection metadata, allowing you to see the outcome of metadata edits update immediately.
-This enables active collaboration to prototype collections with minimal set up.
-
-<button class="btn btn-lg btn-success" data-bs-toggle="modal" data-bs-target="#cbSetUpModal">
-    <svg class="bi icon-sprite" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true">
-        <path d="M8 4.754a3.246 3.246 0 1 0 0 6.492 3.246 3.246 0 0 0 0-6.492zM5.754 8a2.246 2.246 0 1 1 4.492 0 2.246 2.246 0 0 1-4.492 0z"/>
-        <path d="M9.796 1.343c-.527-1.79-3.065-1.79-3.592 0l-.094.319a.873.873 0 0 1-1.255.52l-.292-.16c-1.64-.892-3.433.902-2.54 2.541l.159.292a.873.873 0 0 1-.52 1.255l-.319.094c-1.79.527-1.79 3.065 0 3.592l.319.094a.873.873 0 0 1 .52 1.255l-.16.292c-.892 1.64.901 3.434 2.541 2.54l.292-.159a.873.873 0 0 1 1.255.52l.094.319c.527 1.79 3.065 1.79 3.592 0l.094-.319a.873.873 0 0 1 1.255-.52l.292.16c1.64.893 3.434-.902 2.54-2.541l-.159-.292a.873.873 0 0 1 .52-1.255l.319-.094c1.79-.527 1.79-3.065 0-3.592l-.319-.094a.873.873 0 0 1-.52-1.255l.16-.292c.893-1.64-.902-3.433-2.541-2.54l-.292.159a.873.873 0 0 1-1.255-.52l-.094-.319zm-2.633.283c.246-.835 1.428-.835 1.674 0l.094.319a1.873 1.873 0 0 0 2.693 1.115l.291-.16c.764-.415 1.6.42 1.184 1.185l-.159.292a1.873 1.873 0 0 0 1.116 2.692l.318.094c.835.246.835 1.428 0 1.674l-.319.094a1.873 1.873 0 0 0-1.115 2.693l.16.291c.415.764-.42 1.6-1.185 1.184l-.291-.159a1.873 1.873 0 0 0-2.693 1.116l-.094.318c-.246.835-1.428.835-1.674 0l-.094-.319a1.873 1.873 0 0 0-2.692-1.115l-.292.16c-.764.415-1.6-.42-1.184-1.185l.159-.291A1.873 1.873 0 0 0 1.945 8.93l-.319-.094c-.835-.246-.835-1.428 0-1.674l.319-.094A1.873 1.873 0 0 0 3.06 4.377l-.16-.292c-.415-.764.42-1.6 1.185-1.184l.292.159a1.873 1.873 0 0 0 2.692-1.115l.094-.319z"/>
-    </svg> 
-    Change the Metadata!
-</button>
+  <body>
+    <p>
+      I am the curator of the Friends Historical Library of Swarthmore College, which we call FHL. I am a librarian by profession and my job is to develop FHL research collections, manage FHL archivists, and make sure that we continue keeping a centuries-long tradition of collecting the records of Friends and their meetings.
+    </p>
+    <p>
+      As for FHL, our mission ‘is to collect, preserve, and promote the use of materials that document the history of the Religious Society of Friends (Quakers), its members and attenders, and its principles and connections.’  While we collect broadly, we prioritize materials on Mid-Atlantic Quakers, Hicksite and Wilburite (Conservative) Quakers, Progressive Quakers, and papers that support research into global Quaker history. The collections contain rich documentation of Quaker social history, women’s studies, Indigenous history, the anti-slavery movement, social service, environmental and the peace movements, but also, and most relevant to today’s conversation, natural science.
+    </p>
+    <p>
+      From the foundations of the Society of Friends in the seventeenth century, many Friends have looked to nature and the natural sciences to better understand their faith and spirituality. As a result of these explorations, there have been a number of well-known Quaker botanists, naturalists and other scientists. Pink Dandelion wrote that ‘later Quakers came to look for God within creation or justify scientific enquiry for its own sake’. 
+    </p>
+    <p>
+      Quakers are known for being anti-slavery, though it was only between 1765 and 1790 that Friends were called on to manumit any person they enslaved, upon punishment of disownment by their meeting. Nonetheless, even those Friends who were against enslavement benefitted from the connections and wealth of Quaker participation in the Atlantic world. And ultimately Quakers in Pennsylvania and other colonies were colonizers, displacing Indigenous people. I mention this now because it does come up a couple of times during our walk, but also so that we recognize the complex history of Quakers, including those focused on nature.
+    </p>
+    <p>
+      What are the connections between FHL and the Scott Arboretum?
+    The quick answer is that both FHL and the Scott Arboretum are collections here at Swarthmore College. Another connection is our shared Friend Samuel C. Palmer, 
+    a Professor of Botany from 1909 to 1942 and lifelong member of the Society of Friends. 
+    </p>
+    <p>
+      Palmer graduated from Swarthmore College in 1895 and taught at the Swarthmore Preparatory School for 12 years. He received a Master’s and Ph.D. from Harvard, and in 1909 he joined the faculty of Swarthmore College. In the early 1920s, he and Arthur Hoyt Scott, a fraternity brother also in the Class of 1895 and an avid gardener, as well as others, started to consider the  development of the Crum Valley as a public garden. In 1925, Palmer submitted a plan to the Board of Managers for the creation of an arboretum on campus. The following year, he took a sabbatical from his teaching to visit and survey gardens and arboretums of Europe and gather plant samples. In 1929, the arboretum became a reality with an endowment created as a memorial to Arthur Hoyt Scott. Palmer served on the Executive Committee to develop the Scott Arboretum.
+    </p>
+    <p>
+      A lifelong sketcher, Palmer began exhibiting his plant drawings in the 1930s. In retirement, he devoted himself to recording all the plants of Delaware County. When he finished working on plants, he moved on to butterflies, moths, and mushrooms.
+    </p>
+  </body>
 {:.text-center}
-
-## Create your own Metadata
-
-To create metadata compatible with this CollectionBuilder-Sheets instance the best way to get started is to make of copy of our template in Google Drive:
-
-[CollectionBuilder Metadata Template](https://docs.google.com/spreadsheets/d/1Uv9ytll0hysMOH1j-VL1lZx6PWvc1zf3L35sK_4IuzI/copy?usp=sharing){:.btn .btn-outline-primary}
-{:.text-center}
-
-Alternatively, you can [download the template CSV]({{ '/assets/metadata-template.csv' | relative_url }}) and work on your local machine.
-We suggest editing your CSV using [LibreOffice](https://www.libreoffice.org/) Calc, [OpenRefine](https://openrefine.org/), or Google Sheets (and do not suggest using Excel, since Excel's CSV output is not correctly formatted).
-
-Describe your items in your copy of the template, following the [Metadata Guidelines]({{ '/metadata.html' | relative_url }}). 
-
-Once you have items added you can test your metadata by clicking the "Change the Metadata" button above.
-
-## Learn More
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-Featured image by [JJ Ying on Unsplash](https://unsplash.com/photos/WmnsGyaFnCQ).
